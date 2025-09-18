@@ -1,4 +1,4 @@
-## Hi there 👋 I am Krisanth Manikandan
+## Hi there 👋 I am Krisanth
 
 👨‍🎓 - Computer Science and Engineering Student specialized in Artificial Intelligence (Graduating May 2026)<br>
 🚀 - Aspiring Data/ML Engineer and Data Scientist<br>
